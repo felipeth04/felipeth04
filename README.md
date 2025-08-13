@@ -72,8 +72,9 @@
 <section align="center">
   <h2 align="center"> Companies where I have worked  👨‍💻</h2>
   <div>
-    <img src="https://readme-components.vercel.app/api?component=experience&company=nequi&role=Backend%20Developer%20(currently)&duration=10m&location=Medellín-Colombia&fill=linear-gradient%2862deg%2C%20%231A68C9%200%25%2C%20%2315085A%20100%25%29%3B%0A"/>
-    <img src="https://readme-components.vercel.app/api?component=experience&company=sofka&role=Backend%20Developer%20(2021-2022)&duration=12m&location=Medellín-Colombia&fill=linear-gradient%2862deg%2C%20%23FFFFFF%200%25%2C%20%23D64119%20100%25%29%3B%0A"/>
+    <img src="https://readme-components.vercel.app/api?component=experience&company=mercadopago&role=Senior%20Software%20Enginner%20(Currently)&duration=6m&location=Medellín-Colombia&fill=linear-gradient%2862deg%2C%20%231A68C9%200%25%2C%20%2315085A%20100%25%29%3B%0A"/>
+    <img src="https://readme-components.vercel.app/api?component=experience&company=nequi&role=Middle%20Backend%20Engineer%20(2022-2024)&duration=26m&location=Medellín-Colombia&fill=linear-gradient%2862deg%2C%20%231A68C9%200%25%2C%20%2315085A%20100%25%29%3B%0A"/>
+    <img src="https://readme-components.vercel.app/api?component=experience&company=sofka&role=Junior%20Backend%20Developer%20(2021-2022)&duration=12m&location=Medellín-Colombia&fill=linear-gradient%2862deg%2C%20%23FFFFFF%200%25%2C%20%23D64119%20100%25%29%3B%0A"/>
   </div>
 </section>
 
