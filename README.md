@@ -39,7 +39,7 @@ Designing and building scalable backend systems in fintech, <br/> with a strong 
       />
     </td>
     <td style="border: 1px solid #cfcfcf; border-left: none; height: 96px; padding: 14px 16px; vertical-align: middle;">
-      <h3 style="margin: 0 0 8px 0;">Senior Backend Engineer</h3>
+      <h3 style="margin: 0 0 8px 0;">Senior Software Engineer</h3>
       <p style="margin: 0; line-height: 1.35;">
         Mercado Pago ·<br/> Medellín, Colombia (Hybrid)<br/> <strong>Current</strong>
       </p>
